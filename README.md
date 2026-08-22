@@ -18,6 +18,10 @@ I'm still exploring different areas of technology, but that's part of what I enj
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,aftereffects,premiere,illustrator)](https://skillicons.dev)
 
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali)](https://skillicons.dev)
+
 ## Currently learning
 
 * **Advanced Python**
