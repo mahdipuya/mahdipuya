@@ -10,23 +10,13 @@ I'm still exploring different areas of technology, but that's part of what I enj
 
 ## What I work with
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js)](https://skillicons.dev)
-
 ### Development
 
-* Python
-* Django
-* JavaScript
-* HTML
-* CSS
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,sass,js)](https://skillicons.dev)
 
 ### Design & Creative
 
-* Photoshop
-* Illustrator
-* After Effects
-* Premiere Pro
-* Motion Graphics
+[![My Skills](https://skillicons.dev/icons?i=photoshop,aftereffects,premiere,illustrator)](https://skillicons.dev)
 
 ## Currently learning
 
@@ -47,9 +37,7 @@ For me, that's one of the best parts of programming: having an idea, figuring ou
 
 ## Beyond code
 
-Technology isn't the only thing I'm interested in.
-
-Outside development, I spend my time with:
+There is so many more things that I enjoy spending my time on them like:
 
 * 🥋 **Martial arts**
 * 💪 **Calisthenics**
@@ -59,9 +47,9 @@ Outside development, I spend my time with:
 
 ### Music
 
-I listen to a lot of different music, but **Central Cee** is one of the artists I come back to most.
+I listen to a lot of different musics, but **Central Cee** is one of the artists I come back to most.
 
-**Top Freestyle** is probably one of my favorites.
+**Top Freestyle** is probably one of my favorite tracks.
 
 ## A little about me
 
