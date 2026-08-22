@@ -10,6 +10,8 @@ I'm still exploring different areas of technology, but that's part of what I enj
 
 ## What I work with
 
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js)](https://skillicons.dev)
+
 ### Development
 
 * Python
